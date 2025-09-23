@@ -35,7 +35,7 @@ map.html
 <body>
     <h1 align="center">PERAMBALUR CITY</h1>
     <h2 align="center">SIVASAKTHI S(25017123)</h2>
-    <img src="map.png" usemap="#image-map" height="550px" width="1220px">
+    <img src="map.png" usemap="#image-map" height="550px" width="1240px">
     <map name="image-map">
         <area target="" alt="Panchanatheeswarar Temple" title="Panchanatheeswarar Temple" href="temple.html" coords="4,341,76,475,273,397,194,226" shape="poly">
         <area target="" alt="Perambalur District Collector Office" title="Perambalur District Collector Office" href="office.html" coords="865,331,131" shape="circle">
@@ -186,14 +186,12 @@ theatre.html
 ```
 
 ## OUTPUT
-![alt text](Map.png)
-![alt text](<Eng College (3).png>)
-![alt text](<Medical College (2).png>)
+![alt text](map.png)
+![alt text](<Eng College.png>)
+![alt text](<Medical College.png>)
 ![alt text](Office.png)
 ![alt text](Temple.png)
-![alt text](Theatre.png)
-
-
+![alt text](Theatre-1.png)
 
 
 ## RESULT
