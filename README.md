@@ -185,7 +185,11 @@ theatre.html
 
 ## OUTPUT
 ![alt text](<Screenshot (21).png>)
-![alt text](Theatre.png) ![alt text](<Eng College.png>) ![alt text](<Medical College.png>) ![alt text](Office.png) ![alt text](Temple.png)
+![alt text](<Eng College.png>)
+![alt text](<Medical College.png>)
+![alt text](Office.png) 
+![alt text](Temple.png)
+![alt text](Theatre.png) 
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
