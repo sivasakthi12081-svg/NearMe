@@ -181,8 +181,6 @@ theatre.html
         <img src="theatre.png" height="300px" width="500px">
 </body>
 </html>
-
-
 ```
 
 ## OUTPUT
