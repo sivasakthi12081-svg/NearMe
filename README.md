@@ -191,7 +191,8 @@ theatre.html
 ![alt text](<Medical College.png>)
 ![alt text](Office.png)
 ![alt text](Temple.png)
-![alt text](Theatre-1.png)
+![alt text](Theatre.png)
+
 
 
 ## RESULT
